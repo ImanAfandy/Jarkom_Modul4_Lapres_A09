@@ -22,37 +22,37 @@ Kelompok A09:
  
   <img src="top_b.png" width="600">
   
-  <img src=" top_c.png " width="600">
+  <img src="top_c.png" width="600">
 
-  <img src=" top_d.png" width="600">
+  <img src="top_d.png" width="600">
 
- <img src=" top_e.png" width="600">
+ <img src="top_e.png" width="600">
  
- <img src=" top_f.png" width="600">
+ <img src="top_f.png" width="600">
  
- <img src=" top_g.png " width="600">
+ <img src="top_g.png" width="600">
 
 <p> Hitung pembagian IP dengan pohon berdasarkan penggabungan subnet yang telah dilakukan. </p> 
 
- <img src=" pohon_cidr.jpg " width="600">
+ <img src="pohon_cidr.jpg" width="600">
  
  <p> Buat topologi pada cisco packet tracer </p> 
  
-  <img src=" gambar_cpt.png  " width="600">
+  <img src="gambar_cpt.png" width="600">
  
  <p> Atur IP pada tiap interfaces </p> 
  
-   <img src=" atur_ip.png " width="600">
+   <img src="atur_ip.png" width="600">
   
  <p> Atur IP pada client </p> 
  
  
-   <img src=" atur_ip_client.png " width="600">
+   <img src="atur_ip_client.png" width="600">
    
   <p> Lakukan routing pada router </p> 
   
    
-   <img src=" routing.png  " width="600">
+   <img src="routing.png" width="600">
  
  
  
